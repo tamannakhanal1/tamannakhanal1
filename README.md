@@ -1,16 +1,87 @@
-## Hi there 👋
+# 👋 Hi,
 
-<!--
-**tamannakhanal1/tamannakhanal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Technician** | **Cybersecurity Undergraduate** | # FILL IN: Add more roles/interests if desired
 
-Here are some ideas to get you started:
+🎓 Undergraduate in Cybersecurity @ Touro University  
+🔍 Currently seeking **full-time offers and opportunities**  
+💡 Passionate about # FILL IN: Add your passions/interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on: **mini cloud network project**
+- 🌱 Learning: **AWS, Azure labs, Cybersecurity**
+- 🏗️ # FILL IN: Add any projects you have founded or contributed to
+- 🎯 Interests: # FILL IN: List your interests (e.g., Cybersecurity, Cloud Computing, etc.)
+
+---
+
+## 💼 Open to Opportunities
+
+I'm actively seeking **full-time roles** in:
+- 🛡️ **Cybersecurity**
+- ☁️ **Cloud Computing**
+- 💻 # FILL IN: Add other roles/fields of interest
+
+Feel free to reach out if you'd like to collaborate or discuss opportunities!
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tamanna-khanal-7ba289204)
+# FILL IN: Add Portfolio/Website link if available
+# FILL IN: Add Email badge/link if desired
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+# FILL IN: Add more languages if applicable
+
+### Frameworks & Tools
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+# FILL IN: Add more frameworks/tools if applicable
+
+---
+
+## 🏆 Featured Projects
+
+# FILL IN: Add your projects here, e.g.:
+# ### 🌩️ [Mini Cloud Network Project](#)
+# **Role/Position** | Technologies Used
+# - Brief description of what you did/achieved
+
+---
+
+## 📊 GitHub Stats
+
+# FILL IN: Add your GitHub username to the URLs below if you want to display stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=tamannakhanal1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=tamannakhanal1&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamannakhanal1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+---
+
+<div align="center">
+
+### ⚡ "Building the future, one commit at a time"
+
+![Profile Views](https://komarev.com/ghpvc/?username=tamannakhanal1&color=blueviolet)
+
+</div>
