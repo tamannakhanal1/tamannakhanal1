@@ -65,8 +65,6 @@ Feel free to reach out if you'd like to collaborate or discuss opportunities!
 
 ## 📊 GitHub Stats
 
-# FILL IN: Add your GitHub username to the URLs below if you want to display stats
-
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=tamannakhanal1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
@@ -79,8 +77,6 @@ Feel free to reach out if you'd like to collaborate or discuss opportunities!
 ---
 
 <div align="center">
-
-### ⚡ "Building the future, one commit at a time"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tamannakhanal1&color=blueviolet)
 
