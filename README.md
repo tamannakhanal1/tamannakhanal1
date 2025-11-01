@@ -1,4 +1,4 @@
-# 👋 Hi,
+# 👋 Hi! :)
 
 **IT Technician** | **Cybersecurity Undergraduate** | # FILL IN: Add more roles/interests if desired
 
@@ -13,7 +13,7 @@
 - 🔭 Currently working on: **mini cloud network project**
 - 🌱 Learning: **AWS, Azure labs, Cybersecurity**
 - 🏗️ # FILL IN: Add any projects you have founded or contributed to
-- 🎯 Interests: # FILL IN: List your interests (e.g., Cybersecurity, Cloud Computing, etc.)
+- 🎯 Interests: Cybersecurity, Cloud Computing, AI & Machine learning
 
 ---
 
@@ -22,7 +22,6 @@
 I'm actively seeking **full-time roles** in:
 - 🛡️ **Cybersecurity**
 - ☁️ **Cloud Computing**
-- 💻 # FILL IN: Add other roles/fields of interest
 
 Feel free to reach out if you'd like to collaborate or discuss opportunities!
 
@@ -32,7 +31,7 @@ Feel free to reach out if you'd like to collaborate or discuss opportunities!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tamanna-khanal-7ba289204)
 # FILL IN: Add Portfolio/Website link if available
-# FILL IN: Add Email badge/link if desired
+# FILL IN: tamannakhanalll@gmail.com
 
 ---
 
@@ -50,7 +49,6 @@ Feel free to reach out if you'd like to collaborate or discuss opportunities!
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
-# FILL IN: Add more frameworks/tools if applicable
 
 ---
 
