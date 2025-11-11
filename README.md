@@ -54,10 +54,31 @@ Feel free to reach out if you'd like to collaborate or discuss opportunities!
 
 ## 🏆 Featured Projects
 
-# cyber-ai-assistant-ivwb5ki5e-tamannakhanal1s-projects.vercel.app
-# ### 🌩️ [Mini Cloud Network Project](#)
-# **Role/Position** | Technologies Used
-# - Brief description of what you did/achieved
+## 🏆 Featured Projects
+
+### 🌩️ [Mini Cloud Network Project](https://us-east-2.console.aws.amazon.com/vpcconsole/home?region=us-east-2#VpcDetails:VpcId=vpc-0bd1ab3a117cfb74b)
+**Role/Position:** Cloud Network Engineer | **Technologies Used:** AWS (VPC, EC2), Python, Terraform
+
+- Designed and deployed a Virtual Private Cloud (VPC) on AWS to simulate a mini cloud network.  
+- Configured EC2 instances, subnets, and security groups to enable secure communication between network resources.  
+- Applied infrastructure-as-code practices for scalable and repeatable deployments.  
+- Monitored and optimized network configurations to ensure performance and reliability.  
+
+### 🤖 [Cyber AI Assistant](https://tamsai.vercel.app)
+**Role/Position:** AI Chatbot Developer | **Technologies Used:** Python, Flask, OpenAI API, JavaScript, Vercel
+
+- Developed an AI-powered chatbot capable of answering questions, performing tasks, and providing assistance interactively.  
+- Integrated GoogleGemini API to enable advanced natural language understanding.  
+- Deployed the application on Vercel for fast and scalable access.  
+- Created a clean, user-friendly interface for smooth user experience.  
+
+### 💻 [Personal Portfolio Website](https://tamannakhanal.vercel.app/)
+**Role/Position:** Frontend Developer | **Technologies Used:** HTML, CSS, JavaScript, Vercel
+
+- Designed and deployed a responsive portfolio website showcasing projects, skills, and achievements.  
+- Implemented interactive elements and smooth animations to enhance user engagement.  
+- Integrated social media and contact links for easy networking opportunities.  
+
 
 ---
 
