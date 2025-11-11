@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: **mini cloud network project**
+- 🔭 Currently working on: **Cyber AI Assistant chat bot**
 - 🌱 Learning: **AWS, Azure labs, Cybersecurity**
 - 🏗️ # FILL IN: Add any projects you have founded or contributed to
 - 🎯 Interests: Cybersecurity, Cloud Computing, AI & Machine learning
@@ -54,7 +54,7 @@ Feel free to reach out if you'd like to collaborate or discuss opportunities!
 
 ## 🏆 Featured Projects
 
-# FILL IN: Add your projects here, e.g.:
+# cyber-ai-assistant-ivwb5ki5e-tamannakhanal1s-projects.vercel.app
 # ### 🌩️ [Mini Cloud Network Project](#)
 # **Role/Position** | Technologies Used
 # - Brief description of what you did/achieved
