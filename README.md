@@ -32,7 +32,7 @@ Feel free to reach out if you'd like to collaborate or discuss opportunities!
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tamanna-khanal-7ba289204)
-[![Protfolio](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](https://tamannakhanal.vercel.app/)
+[![Protfolio](https://img.shields.io/badge/Protfolio-%23000000.svg?logo=vercel&logoColor=white)](https://tamannakhanal.vercel.app/)
 [![G-mail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:tamannakhanalll@gmail.com)
 
 ---
@@ -45,7 +45,6 @@ Feel free to reach out if you'd like to collaborate or discuss opportunities!
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-# FILL IN: Add more languages if applicable
 
 ### Frameworks & Tools
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
