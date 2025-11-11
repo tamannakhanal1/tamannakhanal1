@@ -1,10 +1,10 @@
 # 👋 Hi! :)
-
-**IT Technician** | **Cybersecurity Undergraduate** | # FILL IN: Add more roles/interests if desired
+**IT Technician** | **Cybersecurity & Networking Undergraduate** | **Cybersecurity, Cloud Enthusiast & AI Enthusiast** | **Web Developer**
 
 🎓 Undergraduate in Cybersecurity @ Touro University  
 🔍 Currently seeking **full-time offers and opportunities**  
-💡 Passionate about # FILL IN: Add your passions/interests
+💡 Passionate about **AI, cloud computing, ethical hacking, building smart applications, and creating innovative tech solutions**
+
 
 ---
 
@@ -52,9 +52,16 @@ Feel free to reach out if you'd like to collaborate or discuss opportunities!
 
 ---
 
-## 🏆 Featured Projects
 
 ## 🏆 Featured Projects
+
+### 🤖 [Cyber AI Assistant](https://tamsai.vercel.app)
+**Role/Position:** AI Chatbot Developer | **Technologies Used:** Python, Flask, Gemini API, JavaScript, Vercel
+
+- Developed an AI-powered chatbot capable of answering questions, performing tasks, and providing assistance interactively.  
+- Integrated Gemini API to enable advanced natural language understanding.  
+- Deployed the application on Vercel for fast and scalable access.  
+- Created a clean, user-friendly interface for smooth user experience. 
 
 ### 🌩️ [Mini Cloud Network Project](https://us-east-2.console.aws.amazon.com/vpcconsole/home?region=us-east-2#VpcDetails:VpcId=vpc-0bd1ab3a117cfb74b)
 **Role/Position:** Cloud Network Engineer | **Technologies Used:** AWS (VPC, EC2), Python, Terraform
@@ -63,14 +70,6 @@ Feel free to reach out if you'd like to collaborate or discuss opportunities!
 - Configured EC2 instances, subnets, and security groups to enable secure communication between network resources.  
 - Applied infrastructure-as-code practices for scalable and repeatable deployments.  
 - Monitored and optimized network configurations to ensure performance and reliability.  
-
-### 🤖 [Cyber AI Assistant](https://tamsai.vercel.app)
-**Role/Position:** AI Chatbot Developer | **Technologies Used:** Python, Flask, OpenAI API, JavaScript, Vercel
-
-- Developed an AI-powered chatbot capable of answering questions, performing tasks, and providing assistance interactively.  
-- Integrated GoogleGemini API to enable advanced natural language understanding.  
-- Deployed the application on Vercel for fast and scalable access.  
-- Created a clean, user-friendly interface for smooth user experience.  
 
 ### 💻 [Personal Portfolio Website](https://tamannakhanal.vercel.app/)
 **Role/Position:** Frontend Developer | **Technologies Used:** HTML, CSS, JavaScript, Vercel
