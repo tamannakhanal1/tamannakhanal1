@@ -1,5 +1,5 @@
 # 👋 Hi! :)
-**IT Technician** | **Cybersecurity & Networking Undergraduate** | **Cybersecurity, Cloud Enthusiast & AI Enthusiast** | **Web Developer**
+**IT Technician** | **Cybersecurity & Networking Undergraduate** | **Cybersecurity, Cloud & AI Enthusiast** | **Web Developer**
 
 🎓 Undergraduate in Cybersecurity @ Touro University  
 🔍 Currently seeking **full-time offers and opportunities**  
