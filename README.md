@@ -3,17 +3,19 @@
 
 🎓 Undergraduate in Cybersecurity @ Touro University  
 🔍 Currently seeking **full-time offers and opportunities**  
-💡 Passionate about **AI, cloud computing, ethical hacking, building smart applications, and creating innovative tech solutions**
+💡 Passionate about **cybersecurity, ethical hacking, penetration testing, SOC analysis, cloud security, threat detection, machine learning and building secure and innovative tech solutions**.
+
 
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: **Cyber AI Assistant chat bot**
-- 🌱 Learning: **AWS, Azure labs, Cybersecurity**
-- 🏗️ # FILL IN: Add any projects you have founded or contributed to
-- 🎯 Interests: Cybersecurity, Cloud Computing, AI & Machine learning
+- 🔭 Currently working on: **Cyber AI Assistant chatbot**  
+- 🌱 Learning: **AWS, Azure labs, Advanced Cybersecurity practices**  
+- 🏗️ Projects I’ve contributed to or founded: **Mini Cloud Network Project (AWS VPC & EC2), Cyber AI Assistant (LangChain & Gemini), Personal Portfolio Website**  
+- 🎯 Interests: **Cybersecurity, Cloud Computing, AI & Machine Learning, Web Development, Ethical Hacking**
+
 
 ---
 
