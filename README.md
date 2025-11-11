@@ -30,8 +30,8 @@ Feel free to reach out if you'd like to collaborate or discuss opportunities!
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tamanna-khanal-7ba289204)
-# FILL IN: Add Portfolio/Website link if available
-# FILL IN: tamannakhanalll@gmail.com
+ https://tamannakhanal.vercel.app/
+ tamannakhanalll@gmail.com
 
 ---
 
